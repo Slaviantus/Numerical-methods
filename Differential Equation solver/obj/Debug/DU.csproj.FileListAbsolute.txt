@@ -1,0 +1,7 @@
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\bin\Debug\DU.exe.config
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\bin\Debug\DU.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\bin\Debug\DU.pdb
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\obj\Debug\DU.csprojAssemblyReference.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\obj\Debug\DU.csproj.CoreCompileInputs.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\obj\Debug\DU.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\DU\DU\obj\Debug\DU.pdb

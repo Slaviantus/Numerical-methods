@@ -1,0 +1,15 @@
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\bin\Debug\net6.0\System of linear equations solver.exe
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\bin\Debug\net6.0\System of linear equations solver.deps.json
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\bin\Debug\net6.0\System of linear equations solver.runtimeconfig.json
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\bin\Debug\net6.0\System of linear equations solver.dll
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\bin\Debug\net6.0\System of linear equations solver.pdb
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.csproj.AssemblyReference.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.AssemblyInfoInputs.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.AssemblyInfo.cs
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.csproj.CoreCompileInputs.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.dll
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\refint\System of linear equations solver.dll
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.pdb
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\System of linear equations solver.genruntimeconfig.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\System of linear equations solver\System of linear equations solver\obj\Debug\net6.0\ref\System of linear equations solver.dll

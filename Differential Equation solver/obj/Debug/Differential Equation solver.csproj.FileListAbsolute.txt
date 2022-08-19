@@ -1,0 +1,8 @@
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\bin\Debug\DU.exe.config
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\bin\Debug\DU.exe
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\bin\Debug\DU.pdb
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\obj\Debug\Differential Equation solver.csproj.AssemblyReference.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\obj\Debug\Differential Equation solver.csproj.SuggestedBindingRedirects.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\obj\Debug\Differential Equation solver.csproj.CoreCompileInputs.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\obj\Debug\DU.exe
+D:\Slaviantus general depot\Repository\hardcoreproject\DU\DU\obj\Debug\DU.pdb

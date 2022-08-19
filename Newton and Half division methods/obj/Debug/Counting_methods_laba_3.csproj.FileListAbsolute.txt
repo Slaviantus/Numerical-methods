@@ -1,0 +1,22 @@
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.exe.config
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.pdb
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csprojAssemblyReference.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csproj.CoreCompileInputs.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.pdb
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.exe.config
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.exe
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.pdb
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csprojAssemblyReference.cache
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csproj.CoreCompileInputs.cache
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.exe
+D:\alexm\My documents\Славкино\univer\5 семестр\ппп\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.pdb
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.exe.config
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.exe
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\bin\Debug\Counting_methods_laba_3.pdb
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csproj.AssemblyReference.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csproj.SuggestedBindingRedirects.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.csproj.CoreCompileInputs.cache
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.exe
+D:\Slaviantus general depot\univer\5 семестр\численные методы\Counting_methods_laba_3\Counting_methods_laba_3\obj\Debug\Counting_methods_laba_3.pdb

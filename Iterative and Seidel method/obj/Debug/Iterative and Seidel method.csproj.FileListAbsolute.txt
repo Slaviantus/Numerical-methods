@@ -1,0 +1,8 @@
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\bin\Debug\Counting_methods_laba_2.exe.config
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\bin\Debug\Counting_methods_laba_2.exe
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\bin\Debug\Counting_methods_laba_2.pdb
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\obj\Debug\Iterative and Seidel method.csproj.AssemblyReference.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\obj\Debug\Iterative and Seidel method.csproj.SuggestedBindingRedirects.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\obj\Debug\Iterative and Seidel method.csproj.CoreCompileInputs.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\obj\Debug\Counting_methods_laba_2.exe
+D:\Slaviantus general depot\Repository\hardcoreproject\Counting_methods_laba_2\Counting_methods_laba_2\obj\Debug\Counting_methods_laba_2.pdb

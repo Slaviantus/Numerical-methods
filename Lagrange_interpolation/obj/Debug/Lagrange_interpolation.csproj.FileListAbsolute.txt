@@ -1,0 +1,7 @@
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\bin\Debug\Lagrange_interpolation.exe.config
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\bin\Debug\Lagrange_interpolation.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\bin\Debug\Lagrange_interpolation.pdb
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\obj\Debug\Lagrange_interpolation.csprojAssemblyReference.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\obj\Debug\Lagrange_interpolation.csproj.CoreCompileInputs.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\obj\Debug\Lagrange_interpolation.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\Lagrange_interpolation\Lagrange_interpolation\obj\Debug\Lagrange_interpolation.pdb

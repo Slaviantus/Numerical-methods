@@ -1,0 +1,15 @@
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\bin\Debug\SNAU.exe.config
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\bin\Debug\SNAU.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\bin\Debug\SNAU.pdb
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.csprojAssemblyReference.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.csproj.CoreCompileInputs.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.pdb
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\bin\Debug\SNAU.exe.config
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\bin\Debug\SNAU.exe
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\bin\Debug\SNAU.pdb
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.csproj.AssemblyReference.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.csproj.SuggestedBindingRedirects.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.csproj.CoreCompileInputs.cache
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.exe
+D:\Slaviantus general depot\Repository\hardcoreproject\SNAU\SNAU\obj\Debug\SNAU.pdb
